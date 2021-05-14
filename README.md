@@ -1,4 +1,4 @@
-<a href=""><img align="center" src="https://raw.githubusercontent.com/pavankumarallu/pavankumarallu/main/banner.PNG"/></a>
+<a href=""><img align="center" src="https://raw.githubusercontent.com/pavankumarallu/pavankumarallu/main/banner2.PNG"/></a>
 ### Hi there 👋 I'm Pavan Kumar Allu
 
 [![Instagram Badge](https://img.shields.io/badge/-PavankumarAllu-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/allupavan_2001/)](https://www.instagram.com/allupavan_2001/)
