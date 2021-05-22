@@ -26,5 +26,6 @@
 - CSS
 - MySQL
 
-## GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=pavankumarallu&&show_icons=true&count_private=true&theme=radical&text_color=fff"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumarallu&theme=radical&text_color=fff"/>
+| GitHub Streak | GitHub Stats|
+| ----|-----|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavankumarallu&theme=radical) | ![Vineel Sai's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=pavankumarallu&theme=radical&text_color=fff)|
