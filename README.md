@@ -25,7 +25,5 @@
 - HTML
 - CSS
 - MySQL
-
-| GitHub Streak | GitHub Stats|
-| ----|-----|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavankumarallu&theme=radical) | ![pavankumarallu's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=pavankumarallu&theme=radical&text_color=fff)|
+- ## GitHub Stats
+-   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavankumarallu&theme=radical) 
