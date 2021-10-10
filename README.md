@@ -10,14 +10,17 @@
 
 
 ## ABOUT ME
-- 💻 App Developer
 - 🖥  Machine Learning Engineer
+- 🖥  Deep Learning Engineer
+- 💻 App Developer
+
 ## TOP PROGRAMMING LANGUAGES
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarallu&theme=radical&text_color=fff)](https://github.com/pavankumarallu/github-readme-stats)
 
 ## TECHNICAL KNOWLEDGE
 - Python
 - OpenCV
+- Tensorflow
 - Java
 - C
 - C++
