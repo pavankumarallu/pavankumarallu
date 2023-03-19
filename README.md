@@ -10,9 +10,9 @@
 
 
 ## ABOUT ME
-- 🖥  Machine Learning Engineer
-- 🖥  Deep Learning Engineer
-- 💻 App Developer
+- 🖥  AI developer
+- 🖥  Currently working @**Boltzmann Labs** as **Deep Learning Engineer**
+- 🖥  Ex- Summer research Fellow @**IISc**
 
 ## TOP PROGRAMMING LANGUAGES
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarallu&theme=radical&text_color=fff)](https://github.com/pavankumarallu/github-readme-stats)
@@ -25,9 +25,7 @@
 - C
 - C++
 - Java
-- HTML
-- CSS
-- MySQL
+
 
 ## GitHub Stats
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pavankumarallu&theme=radical) 
